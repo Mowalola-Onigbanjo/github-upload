@@ -1,4 +1,4 @@
-# github-upload
+# Text Adventure Game 
 My first coding assingment in Python 
 In this assignment, students are tasked with designing a text-based adventure game. This game should utilize the Python essentials covered thus far, including, but not limited to:
 
